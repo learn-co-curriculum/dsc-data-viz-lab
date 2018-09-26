@@ -1,6 +1,11 @@
 
-# Data Visualization
-## SWBAT:
+# Data Visualization Lab
+
+## Introduction
+This lab will give you some structured practice working with the concepts introduced in the previous lesson.
+
+# Objectives
+You will be able to:
 * Understand matplotlib plot structure for drawing basic plots.
 * Visualize data using scatterplots, barplots and histograms
 
@@ -38,7 +43,7 @@ labels = None
 ```
 
 
-![png](index_files/index_2_0.png)
+![png](index_files/index_4_0.png)
 
 
 ## Exercise 2
@@ -77,7 +82,7 @@ mpg = None
 ```
 
 
-![png](index_files/index_4_0.png)
+![png](index_files/index_6_0.png)
 
 
 ## Exercise 3
@@ -102,5 +107,9 @@ x = None
 ```
 
 
-![png](index_files/index_7_0.png)
+![png](index_files/index_9_0.png)
 
+
+## Summary
+
+Hopefully this lab has given you some good practice working with creating plots in Python using Matplotlib.
