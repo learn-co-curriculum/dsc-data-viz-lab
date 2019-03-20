@@ -1,10 +1,10 @@
 
-# Data Visualization Lab
+# Data Visualization - Lab
 
 ## Introduction
 This lab will give you some structured practice working with the concepts introduced in the previous lesson.
 
-# Objectives
+## Objectives
 You will be able to:
 * Understand matplotlib plot structure for drawing basic plots.
 * Visualize data using scatterplots, barplots and histograms
