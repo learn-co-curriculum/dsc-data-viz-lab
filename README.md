@@ -70,8 +70,8 @@ Looking the scatter plot, how would you describe the relationship between these 
 
 
 ```python
-weight = None
-mpg = None
+weight = [2750, 3125, 2100, 4082, 2690, 3640, 4380, 2241, 2895, 3659]
+mpg = [29, 23, 33, 28, 20, 21, 14, 25, 31, 17]
 
 # Set the figure size in inches
 
