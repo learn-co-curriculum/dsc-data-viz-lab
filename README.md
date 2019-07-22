@@ -77,7 +77,7 @@ mpg = [29, 23, 33, 28, 20, 21, 14, 25, 31, 17]
 
 # Plot with scatter()
 
-# Set x and y axes labels and give titles
+# Set x and y axes labels and a title
 
 ```
 
