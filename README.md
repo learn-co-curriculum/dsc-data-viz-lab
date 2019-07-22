@@ -28,7 +28,7 @@ Make a vertical bar graph using `plt.bar()` for the following set of data:
 import numpy as np
 import matplotlib.pyplot as plt
 
-y = [40,30,10,50,5]
+y = [40,30,10,50,25,5]
 labels = ['Crime', 'Sci/fi', 'Drama', 'Comedy', 'Action', 'Documentary' ]
 
 x = np.arange(len(y))
@@ -87,7 +87,7 @@ plt.figure(figsize=(8,6))
 
 plt.scatter(weight, mpg, label = "weight vs. mileage" )
 
-# Set x and y axes labels
+# Set x and y axes labels and title
 plt.xlabel('Car weight')
 plt.ylabel('Miles per Gallon')
 
