@@ -32,7 +32,8 @@ y = None
 x =None
 labels = None
 
-# Set a figure size
+
+# Create a new figure object
 
 # Plot vertical bars of fixed width by passing x and y values to .bar() function 
 
