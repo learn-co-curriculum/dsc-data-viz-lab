@@ -6,8 +6,8 @@ This lab will give you some structured practice performing data visualization!
 
 ## Objectives
 You will be able to:
-* Use matplotlib to create a scatterplot
-* Use matplotlib to create a histogram
+* Use Matplotlib to create a scatter plot
+* Use Matplotlib to create a histogram
 * Interpret a histogram to gain insight about a distribution of data
 
 ## Exercise 1
