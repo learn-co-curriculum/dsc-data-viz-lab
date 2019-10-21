@@ -2,12 +2,13 @@
 # Data Visualization - Lab
 
 ## Introduction
-This lab will give you some structured practice working with the concepts introduced in the previous lesson.
+This lab will give you some structured practice performing data visualization!
 
 ## Objectives
 You will be able to:
-* Understand matplotlib plot structure for drawing basic plots.
-* Visualize data using scatterplots, barplots and histograms
+* Use matplotlib to create a scatterplot
+* Use matplotlib to create a histogram
+* Interpret a histogram to gain insight about a distribution of data
 
 ## Exercise 1
 
@@ -113,4 +114,4 @@ x = None
 
 ## Summary
 
-Hopefully this lab has given you some good practice working with creating plots in Python using Matplotlib.
+In this lab, you got some good practice working with creating and interpreting plots in Python using Matplotlib.
