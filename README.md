@@ -4,7 +4,9 @@
 This lab will give you some structured practice performing data visualization!
 
 ## Objectives
+
 You will be able to:
+
 * Use Matplotlib to create a bar graph
 * Use Matplotlib to create a scatter plot
 * Use Matplotlib to create a histogram
@@ -87,7 +89,9 @@ ax.set_xlabel("Genres");
 ```
 
 
+    
 ![png](index_files/index_5_0.png)
+    
 
 
 ## Exercise 2
@@ -157,7 +161,9 @@ ax.set_title("Consumer Cars");
 ```
 
 
+    
 ![png](index_files/index_8_0.png)
+    
 
 
 ## Exercise 3
@@ -215,7 +221,9 @@ ax.set_title("Customer Waiting Times");
 ```
 
 
+    
 ![png](index_files/index_11_0.png)
+    
 
 
 ## Summary
