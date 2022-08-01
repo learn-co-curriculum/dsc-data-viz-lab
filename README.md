@@ -4,7 +4,9 @@
 This lab will give you some structured practice performing data visualization!
 
 ## Objectives
+
 You will be able to:
+
 * Use Matplotlib to create a bar graph
 * Use Matplotlib to create a scatter plot
 * Use Matplotlib to create a histogram
