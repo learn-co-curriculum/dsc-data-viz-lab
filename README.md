@@ -46,7 +46,7 @@ Notes:
 
 The graph you create should look like this:
 
-![bar graph](graph_images/bar_chart.png)
+![bar graph](https://curriculum-content.s3.amazonaws.com/data-science/images/bar_chart.png)
 
 
 ```python
@@ -119,7 +119,7 @@ Looking the scatter plot, think about: how would you describe the relationship b
 
 The graph you create should look like this:
 
-![scatter plot](graph_images/scatter_plot.png)
+![scatter plot](https://curriculum-content.s3.amazonaws.com/data-science/images/scatter_plot.png)
 
 
 ```python
@@ -177,7 +177,7 @@ Joe is the branch manager at a bank. Recently, Joe has been receiving customer f
 
 The graph you create should look like this:
 
-![histogram](graph_images/histogram.png)
+![histogram](https://curriculum-content.s3.amazonaws.com/data-science/images/histogram.png)
 
 
 ```python
